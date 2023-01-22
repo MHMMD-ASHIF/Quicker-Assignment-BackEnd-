@@ -1,0 +1,6 @@
+djangorestframework
+corsheaders
+rest_framework_simplejwt
+drf_social_oauth2
+
+
